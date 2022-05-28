@@ -20,3 +20,5 @@ def podio_olimpico(tempo_chegada1, tempo_chegada2, tempo_chegada3):
     
     elif (t3 < t1 and t3 < t2) and (t1 > t2):
         return print("1 -", t3, "minutos\n2 -", t2, "minutos\n3 -", t1, "minutos")
+
+##Atualização        
